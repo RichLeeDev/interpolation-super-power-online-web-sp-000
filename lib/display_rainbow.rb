@@ -4,9 +4,7 @@ def display_rainbow(colors)
 end
 
 def bob_name
-  name = bob
   age = 11 
-  height = 55
   return age
 end 
 
