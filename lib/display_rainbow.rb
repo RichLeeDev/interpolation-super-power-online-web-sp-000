@@ -10,5 +10,5 @@ end
 # end 
 
 # bob
-
+age = 10 
 puts "#{age} this is how old bob is"
